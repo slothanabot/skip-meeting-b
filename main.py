@@ -12,7 +12,7 @@ to anyone who has sat through a meeting that could have been an email.
 
 import os
 
-LINE = "Sorry, I can't make the meeting — my calendar and I are in couples therapy, and it says I need boundaries."
+LINE = "Sorry — my calendar filed a restraining order against meetings with no agenda, and I'm legally required to comply."
 
 
 def build_line() -> str:
